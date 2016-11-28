@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>1_2</name>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[説明: <br>altitudeMo: relativeToGround<br>tessellate: -1<br>extrude: -1<br>visibility: -1<br>AREA: 187978.203000000008615<br>PERIMETER: 2277.675999999999931<br>H17KA13_: 3575<br>H17KA13_ID: 3574<br>KEN: 13<br>CITY: 113<br>KEN_NAME: s<br>GST_NAME: aJ<br>HCODE: 8101<br>KIHON1: 0280<br>DUMMY1: -<br>KIHON2: 02<br>KEYCODE1: 113028002<br>KEYCODE2: 113028002<br>AREA_MAX_F: M<br>N_C1: 0<br>TATE: 0<br>DIR: 0<br>HIGHT: 50<br>JIKAKU: 10<br>NMOJI: 5<br>MOJI: ˂Q<br>SEQ_NO2: 3574<br>KSUM: 57<br>CSUM: 85<br>JINKO: 5316<br>SETAI: 3503<br>X_CODE: 139.669620000000009<br>Y_CODE: 35.671900000000001<br>KCODE1: 0280-02<br>KEY_CODE: 13113028002]]></description>
+			<styleUrl>#poly-E65100-1-77</styleUrl>
+			<ExtendedData>
+				<Data name='説明'>
+					<value></value>
+				</Data>
+				<Data name='altitudeMo'>
+					<value>relativeToGround</value>
+				</Data>
+				<Data name='tessellate'>
+					<value>-1</value>
+				</Data>
+				<Data name='extrude'>
+					<value>-1</value>
+				</Data>
+				<Data name='visibility'>
+					<value>-1</value>
+				</Data>
+				<Data name='AREA'>
+					<value>187978.203000000008615</value>
+				</Data>
+				<Data name='PERIMETER'>
+					<value>2277.675999999999931</value>
+				</Data>
+				<Data name='H17KA13_'>
+					<value>3575</value>
+				</Data>
+				<Data name='H17KA13_ID'>
+					<value>3574</value>
+				</Data>
+				<Data name='KEN'>
+					<value>13</value>
+				</Data>
+				<Data name='CITY'>
+					<value>113</value>
+				</Data>
+				<Data name='KEN_NAME'>
+					<value>s</value>
+				</Data>
+				<Data name='GST_NAME'>
+					<value>aJ</value>
+				</Data>
+				<Data name='HCODE'>
+					<value>8101</value>
+				</Data>
+				<Data name='KIHON1'>
+					<value>0280</value>
+				</Data>
+				<Data name='DUMMY1'>
+					<value>-</value>
+				</Data>
+				<Data name='KIHON2'>
+					<value>02</value>
+				</Data>
+				<Data name='KEYCODE1'>
+					<value>113028002</value>
+				</Data>
+				<Data name='KEYCODE2'>
+					<value>113028002</value>
+				</Data>
+				<Data name='AREA_MAX_F'>
+					<value>M</value>
+				</Data>
+				<Data name='N_C1'>
+					<value>0</value>
+				</Data>
+				<Data name='TATE'>
+					<value>0</value>
+				</Data>
+				<Data name='DIR'>
+					<value>0</value>
+				</Data>
+				<Data name='HIGHT'>
+					<value>50</value>
+				</Data>
+				<Data name='JIKAKU'>
+					<value>10</value>
+				</Data>
+				<Data name='NMOJI'>
+					<value>5</value>
+				</Data>
+				<Data name='MOJI'>
+					<value>˂Q</value>
+				</Data>
+				<Data name='SEQ_NO2'>
+					<value>3574</value>
+				</Data>
+				<Data name='KSUM'>
+					<value>57</value>
+				</Data>
+				<Data name='CSUM'>
+					<value>85</value>
+				</Data>
+				<Data name='JINKO'>
+					<value>5316</value>
+				</Data>
+				<Data name='SETAI'>
+					<value>3503</value>
+				</Data>
+				<Data name='X_CODE'>
+					<value>139.669620000000009</value>
+				</Data>
+				<Data name='Y_CODE'>
+					<value>35.671900000000001</value>
+				</Data>
+				<Data name='KCODE1'>
+					<value>0280-02</value>
+				</Data>
+				<Data name='KEY_CODE'>
+					<value>13113028002</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>139.671072,35.675474,0.0 139.670937,35.675633,0.0 139.670879,35.675732,0.0 139.670808,35.676006,0.0 139.670726,35.676329,0.0 139.670588,35.677033,0.0 139.670573,35.677108,0.0 139.670535,35.677313,0.0 139.670519,35.677383,0.0 139.670456,35.677653,0.0 139.669607,35.677348,0.0 139.669028,35.677154,0.0 139.668842,35.677084,0.0 139.66844,35.676927,0.0 139.668273,35.676866,0.0 139.66804,35.676779,0.0 139.667826,35.676701,0.0 139.667701,35.676653,0.0 139.666907,35.676385,0.0 139.666544,35.67625,0.0 139.666523,35.676237,0.0 139.665606,35.675899,0.0 139.664929,35.675646,0.0 139.664483,35.675498,0.0 139.664319,35.675435,0.0 139.663667,35.675206,0.0 139.663554,35.675166,0.0 139.663079,35.674975,0.0 139.662895,35.674915,0.0 139.662425,35.674742,0.0 139.661459,35.67441,0.0 139.661496,35.674383,0.0 139.661614,35.674289,0.0 139.661661,35.674122,0.0 139.661801,35.673686,0.0 139.661785,35.673653,0.0 139.661702,35.673489,0.0 139.661526,35.673244,0.0 139.661536,35.67324,0.0 139.661522,35.673222,0.0 139.661462,35.67306,0.0 139.661395,35.672943,0.0 139.661383,35.672946,0.0 139.66138,35.672939,0.0 139.661419,35.672853,0.0 139.661458,35.672696,0.0 139.662178,35.672886,0.0 139.662247,35.672908,0.0 139.662492,35.672973,0.0 139.662709,35.673043,0.0 139.663176,35.67317,0.0 139.663411,35.673246,0.0 139.663616,35.6733,0.0 139.663745,35.673338,0.0 139.663845,35.673362,0.0 139.664123,35.673444,0.0 139.66418,35.673467,0.0 139.6645,35.673563,0.0 139.664593,35.673593,0.0 139.664853,35.673677,0.0 139.665117,35.673751,0.0 139.665545,35.673874,0.0 139.665622,35.673896,0.0 139.666025,35.674012,0.0 139.666437,35.674122,0.0 139.666515,35.674146,0.0 139.666788,35.674231,0.0 139.667119,35.674331,0.0 139.667367,35.674403,0.0 139.667705,35.674493,0.0 139.668094,35.674608,0.0 139.668725,35.674793,0.0 139.668889,35.674829,0.0 139.669456,35.674991,0.0 139.669834,35.675099,0.0 139.669895,35.675134,0.0 139.670545,35.675312,0.0 139.670674,35.675346,0.0 139.671086,35.675457,0.0 139.671072,35.675474,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-E65100-1-77-normal'>
+			<LineStyle>
+				<color>ff0051E6</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D0051E6</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-E65100-1-77-highlight'>
+			<LineStyle>
+				<color>ff0051E6</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D0051E6</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-E65100-1-77'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-E65100-1-77-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-E65100-1-77-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
